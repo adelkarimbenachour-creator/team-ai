@@ -1,0 +1,8 @@
+{
+  "name": "Team-Ai - AI Employees & Autonomous Coworkers Platform",
+  "description": "Plateforme d'employés IA autonomes Team-Ai : recrutez des agents IA dotés de machines virtuelles dédiées, de mémoire persistante, d'un navigateur live et de plus de 70 intégrations d'outils (Gmail, Slack, GitHub, Notion, etc.).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
